@@ -342,5 +342,6 @@
   <project path="system/vold" name="platform/system/vold" />
   <project path="tools/build" name="platform/tools/build" groups="toolsbuild" />
   <project path="tools/motodev" name="platform/tools/motodev" />
+  <project path="vendor/cerebrum" name="cerebrum-android/android_vendor_cerebrum" remote="github" revision="jellybean2" />
 
 </manifest>
